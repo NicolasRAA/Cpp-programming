@@ -1,0 +1,4 @@
+Car;Car is driving on the road.
+Boat;Boat is sailing on water.
+Plane;Plane is flying in the sky.
+AmphibiousVehicle;Amphibious vehicle can drive on the road and sail on water.
